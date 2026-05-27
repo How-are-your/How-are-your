@@ -6,13 +6,13 @@ Email Me 👉 ✉️ **memerpandit69@gmail.com** For Collaboration/Project or An
 - 🔭 **I’m currently working on:** nhea-malda.vercel.app
 - 🌱 **I’m currently learning:** FastAPI
 - 👯 **I’m looking to collaborate on:** Agentic Research Based and SaaS Projects
-- 🤔 **I’m looking for help with:** Your project here
+- 🤔 **I’m looking for help with:** Agentic AI Research Agents
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** memerpandit69@gmail.com
 - 😄 **Pronouns:** Entrepreneur
 
 # 💫 About Me:
-Developing custom AI Sysyems and Orchastrated AI Infrasturctures for Businesses and Companies <br>Bulding - Cognivex AI ( cognivex-ai.vercel.app) <br>Learning and building at the same time .<br>Looking for help from experienced innnvoative builders<br>
+Developing custom AI Sysyems and Orchastrated AI Infrasturctures for Businesses and Companies <br>Building - Cognivex AI ( cognivex-ai.vercel.app) <br>Learning and building at the same time .<br>Looking for help from experienced innnvoative builders<br>
 
 
 ## 🌐 Socials:
